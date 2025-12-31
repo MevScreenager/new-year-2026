@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/new-year-2026/static/css/main.da048c72.css",
-    "main.js": "/new-year-2026/static/js/main.2d6f6a45.js",
+    "main.js": "/new-year-2026/static/js/main.95ba49d3.js",
     "index.html": "/new-year-2026/index.html",
     "main.da048c72.css.map": "/new-year-2026/static/css/main.da048c72.css.map",
-    "main.2d6f6a45.js.map": "/new-year-2026/static/js/main.2d6f6a45.js.map"
+    "main.95ba49d3.js.map": "/new-year-2026/static/js/main.95ba49d3.js.map"
   },
   "entrypoints": [
     "static/css/main.da048c72.css",
-    "static/js/main.2d6f6a45.js"
+    "static/js/main.95ba49d3.js"
   ]
 }
